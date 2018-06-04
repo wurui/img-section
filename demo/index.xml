@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../demo.xsl"?>
+<root>
+    <env>
+        <domain>local</domain>
+    </env>
+    <login>
+        <uid>git/wurui</uid>
+    </login>
+    <p>
+        <title>demo page</title>
+        <desc>this is deme page</desc>
+        <owner>openxsl</owner>
+        <icon>//oxm1.cc/img/app_default.png</icon>
+    </p>
+    <data>
+    <img-sections ADAPTERID="25b14f5e82418498cc977a5f3">
+        <i>
+            <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmjp3Tjhzzf20pRhoolA1io4-1239.png</bg>
+            <html></html>
+            <href></href>
+            <_id>5b14f5e82418498cc977a5ed</_id>
+        </i>
+        <i>
+            <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmikrTjhzzf351RcatiA1nh4-1559.png</bg>
+            <html></html>
+            <href></href>
+            <_id>5b14f5e82418498cc977a5ee</_id>
+        </i>
+        <i>
+            <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmi2yTjhzzf3muR7ux1A3cuq-1550.png</bg>
+            <html></html>
+            <href></href>
+            <_id>5b14f5e82418498cc977a5ef</_id>
+        </i>
+        <i>
+            <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmhloTjhzzf444RenwxA16bq-1531.png</bg>
+            <html></html>
+            <href></href>
+            <_id>5b14f5e82418498cc977a5f0</_id>
+        </i>
+        <i>
+            <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmh2yTjhzzf4muR4wqkA35q0-1547.png</bg>
+            <html></html>
+            <href></href>
+            <_id>5b14f5e82418498cc977a5f1</_id>
+        </i>
+        <i>
+            <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmg4mTjhzzf5l6Rs7jrA2pzi-1556.png</bg>
+            <html></html>
+            <href></href>
+            <_id>5b14f5e82418498cc977a5f2</_id>
+        </i>
+    </img-sections>
+    </data>
+</root>
