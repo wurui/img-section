@@ -3,11 +3,12 @@
         <!-- className 'J_OXMod' required  -->
         <div class="J_OXMod oxmod-img-section" ox-mod="img-section">
         	<ul>
-	            <xsl:for-each select="data/img-sections/i">
+	            <xsl:for-each select="data/ui-entry/i">
 	            	<li>
-	            		<xsl:if test="html !='' ">
+	            		<xsl:if test="title !='' ">
 	            			<div class="text-box">
-	            				<xsl:value-of select="html" disable-output-escaping="yes" />
+	            				<h2><xsl:value-of select="title" disable-output-escaping="yes" /></h2>
+	            				<h3><xsl:value-of select="title" disable-output-escaping="yes" /></h3>
 	            			</div>
 	            		</xsl:if>
 	            		<a href="{href}">

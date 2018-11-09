@@ -14,43 +14,38 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-    <img-sections ADAPTERID="25b14f5e82418498cc977a5f3">
-        <i>
-            <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmjp3Tjhzzf20pRhoolA1io4-1239.png</bg>
-            <html><p style="text-align:center;">    <br/></p><p style="text-align:center;">  <strong>iPhone X</strong></p><p style="text-align:center;"> hello, 未来</p><p style="text-align:center;"> <br/></p></html>
-            <href></href>
-            <_id>5b14f5e82418498cc977a5ed</_id>
-        </i>
-        <i>
-            <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmikrTjhzzf351RcatiA1nh4-1559.png</bg>
-            <html></html>
-            <href></href>
-            <_id>5b14f5e82418498cc977a5ee</_id>
-        </i>
-        <i>
-            <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmi2yTjhzzf3muR7ux1A3cuq-1550.png</bg>
-            <html></html>
-            <href></href>
-            <_id>5b14f5e82418498cc977a5ef</_id>
-        </i>
-        <i>
-            <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmhloTjhzzf444RenwxA16bq-1531.png</bg>
-            <html></html>
-            <href></href>
-            <_id>5b14f5e82418498cc977a5f0</_id>
-        </i>
-        <i>
-            <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmh2yTjhzzf4muR4wqkA35q0-1547.png</bg>
-            <html></html>
-            <href></href>
-            <_id>5b14f5e82418498cc977a5f1</_id>
-        </i>
-        <i>
-            <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmg4mTjhzzf5l6Rs7jrA2pzi-1556.png</bg>
-            <html></html>
-            <href></href>
-            <_id>5b14f5e82418498cc977a5f2</_id>
-        </i>
-    </img-sections>
+        <ui-entry ADAPTERID="25b14f5e82418498cc977a5f3">
+            <i>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmjp3Tjhzzf20pRhoolA1io4-1239.png</bg>
+                <title>&lt;strong&gt;iPhone X&lt;/strong&gt;</title>
+                <subtitle><p style="text-align:center;"> hello, 未来</p></subtitle>
+                <href></href>
+                
+            </i>
+            <i>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmikrTjhzzf351RcatiA1nh4-1559.png</bg>
+                                
+            </i>
+            <i>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmi2yTjhzzf3muR7ux1A3cuq-1550.png</bg>
+                
+                
+            </i>
+            <i>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmhloTjhzzf444RenwxA16bq-1531.png</bg>
+                
+                
+            </i>
+            <i>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmh2yTjhzzf4muR4wqkA35q0-1547.png</bg>
+                
+                
+            </i>
+            <i>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a1cdmg4mTjhzzf5l6Rs7jrA2pzi-1556.png</bg>
+                
+                
+            </i>
+        </ui-entry>
     </data>
 </root>

@@ -1,9 +1,9 @@
 {
   "name": "img-section",
   "apiDependencies": [
-  {
-    "name": "img-sections"
-  }
-]
+	  {
+	    "name": "ui-entry"
+	  }
+	]
 }
 
