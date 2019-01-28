@@ -8,7 +8,7 @@
 	            		<xsl:if test="title !='' ">
 	            			<div class="text-box">
 	            				<h2><xsl:value-of select="title" disable-output-escaping="yes" /></h2>
-	            				<h3><xsl:value-of select="title" disable-output-escaping="yes" /></h3>
+	            				<h3><xsl:value-of select="subtitle" disable-output-escaping="yes" /></h3>
 	            			</div>
 	            		</xsl:if>
 	            		<a href="{href}">
